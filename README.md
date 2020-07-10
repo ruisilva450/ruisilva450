@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [HeyRobot](//heyrobot.fun), [MesaItal](//mesaital.com) and as Software Engineer at Spotzer
 - 🌱 I’m currently learning [VueJS](//vuejs.org) and [React](//reactjs.org)
 - 📫 How to reach me: [@ruisilva450](//twitter.com/ruisilva450)
-- 😄 Pronouns: He, Him
+- 🪁 More info: [ruisilva.dev](//ruisilva.dev)
 - ⚡ Fun fact: ⚫ belt in Karate 🥋
 <!-- 
 - 👯 I’m looking to collaborate on ...
