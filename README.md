@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [HeyRobot](//heyrobot.fun), [MesaItal](//mesaital.com) and as Software Engineer at Spotzer
+- 🔭 I’m currently working on [HeyRobot](//heyrobot.fun), [MesaItal](//mesaital.com) and as Software Engineer at [Miro](//miro.com)
 - 🌱 I’m currently learning more about [Docker](//www.docker.com) 
 - 📫 How to reach me: [@ruisilva450](//twitter.com/ruisilva450)
 - 🪁 More info: [ruisilva.dev](//ruisilva.dev)
